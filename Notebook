@@ -1,0 +1,11 @@
+import os
+
+
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size = 256,
+    chunk_overlap = 20
+)
+
+docs = text_splitter.create_documents([text])

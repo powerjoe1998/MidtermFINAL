@@ -1,0 +1,2271 @@
+Document 0:
+Content: BLUEPRINT FOR AN 
+AI B ILL OF 
+RIGHTS 
+MAKING AUTOMATED 
+SYSTEMS WORK FOR 
+THE AMERICAN PEOPLE 
+OCTOBER 2022...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 0
+}
+
+---
+
+Document 1:
+Content: About this Document 
+The Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People was 
+published by the White House Office of Science and Technology Policy in October 2022. This framework was 
+released one year after OSTP announced  the launch of a process to develop a bill of rights for an AI-powered 
+world. Its release follows a year of public engagement to inform this initiative. The framework is available 
+online at: https://www.whitehouse.gov/ostp/ai-bill-of...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 1
+}
+
+---
+
+Document 2:
+Content: existing policies and safeguards that govern automated systems, including, for example, Executive Order 13960, 
+Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government (December 2020).  
+This white paper recognizes that national security (which includes certain law enforcement and 
+homeland security activities) and defense activities are of increased sensitivity and interest to our nations 
+adversaries and are often subject to special requirements, such as those govern...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 1
+}
+
+---
+
+Document 3:
+Content: SECTION  TITLE
+FOREWORD
+Among the great challenges posed to democracy today is the use of technolog y, data, and automated systems in 
+ways that threaten the rights of the American public. Too often, these tools are used to limit our opportunities and 
+prevent our access to critical resources or services. These problems are well documented. In America and around 
+the world, systems supposed to help with patient care have proven unsafe, ineffective, or biased. Algorithms used 
+in hiring and credi...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 2
+}
+
+---
+
+Document 4:
+Content: ABOUT THIS  FRAMEWORK
+The Blueprint for an AI Bill of Rights is a set of five principles and associated practices to help guide the 
+design, use, and deployment of automated systems to protect the rights of the American public in the age of 
+artificial intel-ligence. Developed through extensive consultation with the American public, these principles are 
+a blueprint for building and deploying automated systems that are aligned with democratic values and protect 
+civil rights, civil liberties, an...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 3
+}
+
+---
+
+Document 5:
+Content: AI B ILL OF RIGHTS
+FFECTIVE  SYSTEMS
+ineffective systems. Automated systems should be 
+communities, stakeholders, and domain experts to identify 
+Systems should undergo pre-deployment testing, risk 
+that demonstrate they are safe and effective based on 
+including those beyond the intended use, and adherence to 
+protective measures should include the possibility of not 
+Automated systems should not be designed with an intent 
+reasonably foreseeable possibility of endangering your safety or the sa...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 4
+}
+
+---
+
+Document 6:
+Content: SECTION  TITLE
+DATA PRIVACY
+You should be protected from abusive data practices via built-in protections and you 
+should have agency over how data about you is used. You should be protected from violations of 
+privacy through design choices that ensure such protections are included by default, including ensuring that data collection conforms to reasonable expectations and that only data strictly necessary for the specific context is collected. Designers, developers, and deployers of automated sy...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 5
+}
+
+---
+
+Document 7:
+Content: SECTION  TITLE
+HUMAN  ALTERNATIVES , C ONSIDERATION , AND FALLBACK
+You should be able to opt out, where appropriate, and have access to a person who can quickly 
+consider and remedy problems you encounter. You should be able to opt out from automated systems in 
+favor of a human alternative, where appropriate. Appropriateness should be determined based on reasonable expectations in a given context and with a focus on ensuring broad accessibility and protecting the public from especially harmful ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 6
+}
+
+---
+
+Document 8:
+Content: SECTION  TITLE
+Applying The Blueprint for an AI Bill of Rights 
+While many of the concerns addressed in this framework derive from the use of AI, the technical 
+capabilities and specific definitions of such systems change with the speed of innovation, and the potential 
+harms of their use occur even with less technologically sophisticated tools. Thus, this framework uses a two-
+part test to determine what systems are in scope. This framework applies to (1) automated systems that (2) 
+have the po...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 7
+}
+
+---
+
+Document 9:
+Content: SECTION  TITLE
+  
+ 
+ 
+  Applying The Blueprint for an AI Bill of Rights 
+RELATIONSHIP TO EXISTING  LAW AND POLICY
+There are regulatory safety requirements for medical devices, as well as sector-, population-, or technology-spe-
+cific privacy and security protections. Ensuring some of the additional protections proposed in this framework would require new laws to be enacted or new policies and practices to be adopted. In some cases, exceptions to the principles described in the Blueprint for an A...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 8
+}
+
+---
+
+Document 10:
+Content: ethics, or risk management. The Technical Companion builds on this prior work to provide practical next 
+steps to move these principles into practice and promote common approaches that allow technological 
+innovation to flourish while protecting people from harm. 
+9...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 8
+}
+
+---
+
+Document 11:
+Content: Applying The Blueprint for an AI Bill of Rights 
+DEFINITIONS
+ALGORITHMIC DISCRIMINATION: Algorithmic discrimination occurs when automated systems 
+contribute to unjustified different treatment or impacts disfavoring people based on their race, colo r, ethnicity, 
+sex (including pregnanc y, childbirth, and related medical conditions, gender identit y, intersex status, and sexual 
+orientation), religion, age, national origin, disabilit y, veteran status, genetic information, or any other classific...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 9
+}
+
+---
+
+Document 12:
+Content: voting, and protections from discrimination, excessive punishment, unlawful surveillance, and violations of 
+privacy and other freedoms in both public and private sector contexts; equal opportunities, including equitable 
+access to education, housing, credit, employment, and other programs; o r, access to critical resources or 
+services, such as healthcare, financial services, safet y, social services, non-deceptive information about goods 
+and services, and government benefits. 
+10...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 9
+}
+
+---
+
+Document 13:
+Content: Applying The Blueprint for an AI Bill of Rights 
+SENSITIVE DATA: Data and metadata are sensitive if they pertain to an individual in a sensitive domain 
+(defined below); are generated by technologies used in a sensitive domain; can be used to infer data from a 
+sensitive domain or sensitive data about an individual (such as disability-related data, genomic data, biometric data, behavioral data, geolocation data, data related to interaction with the criminal justice system, relationship history a...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 10
+}
+
+---
+
+Document 14:
+Content: FROM 
+PRINCIPLES 
+TO PRACTICE 
+A T ECHINCAL COMPANION TO
+THE Blueprint for an 
+AI B ILL OF RIGHTS
+12...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 11
+}
+
+---
+
+Document 15:
+Content: TABLE OF CONTENTS
+FROM PRINCIPLES TO PRACTICE: A TECHNICAL COMPANION TO THE BLUEPRINT 
+FOR AN AI BILL OF RIGHTS  
+ U SING  THIS TECHNICAL  COMPANION
+ S AFE AND EFFECTIVE  SYSTEMS
+ A LGORITHMIC  DISCRIMINATION  PROTECTIONS
+ D ATA PRIVACY
+ N OTICE  AND EXPLANATION
+ H UMAN  ALTERNATIVES , C ONSIDERATION , AND FALLBACK
+APPENDIX
+ E XAMPLES  OF AUTOMATED  SYSTEMS
+ L ISTENING  TO THE AMERICAN  PEOPLE
+ENDNOTES  12
+14152330404653535563
+13...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 12
+}
+
+---
+
+Document 16:
+Content: -    USING THIS TECHNICAL COMPANION
+The Blueprint for an AI Bill of Rights is a set of five principles and associated practices to help guide the design, 
+use, and deployment of automated systems to protect the rights of the American public in the age of artificial intelligence. This technical companion considers each principle in the Blueprint for an AI Bill of Rights and provides examples and concrete steps for communities, industry, governments, and others to take in order to build these prot...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 13
+}
+
+---
+
+Document 17:
+Content: SAFE AND EFFECTIVE SYSTEMS 
+You should be protected from unsafe or ineffective sys -
+tems. Automated systems should be developed with consultation 
+from diverse communities, stakeholders, and domain experts to iden -
+tify concerns, risks, and potential impacts of the system. Systems should undergo pre-deployment testing, risk identification and miti
+-
+gation, and ongoing monitoring that demonstrate they are safe and effective based on their intended use, mitigation of unsafe outcomes including t...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 14
+}
+
+---
+
+Document 18:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+While technologies are being deployed to solve problems across a wide array of issues, our reliance on technology can 
+also lead to its use in situations where it has not yet been proven to workeither at all or within an acceptable range of error. In other cases, technologies do not work as ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 15
+}
+
+---
+
+Document 19:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+ AI-enabled nudification technology that creates images where people appear to be nudeincluding apps that
+enable non-technical users to create or alter images of individuals without their consenthas proliferated at an
+alarming rate. Such technology is becoming a common form of image-based ab...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 16
+}
+
+---
+
+Document 20:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+In order to ensure that an automated system is safe and effective, it should include safeguards to protect the 
+public from harm in a proactive and ongoing manner; avoid use of data inappropriate for or irrelevant to the task at...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 17
+}
+
+---
+
+Document 21:
+Content: -
+surement of the impact of risks should be included and balanced such that high impact risks receive attention and mitigation proportionate with those impacts. Automated systems with the intended purpose of violating the safety of others should not be developed or used; systems with such safety violations as identified unin
+-
+tended consequences should not be used until the risk can be mitigated. Ongoing risk mitigation may necessi -
+tate rollback or significant modification to a launched autom...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 17
+}
+
+---
+
+Document 22:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Ongoing monitoring. Automated systems should have ongoing monitoring procedures, including recalibra -
+tion procedures, in place to ensure that their performance does not fall below an acceptable level over time, 
+based on chang...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 18
+}
+
+---
+
+Document 23:
+Content: justification should be documented for each data attribute and source to explain why it is appropriate to use 
+that data to inform the results of the automated system and why such use will not violate any applicable laws. 
+In cases of high-dimensional and/or derived attributes, such justifications can be provided as overall 
+descriptions of the attribute generation process and appropriateness. 
+19...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 18
+}
+
+---
+
+Document 24:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Derived data sources tracked and reviewed carefully. Data that is derived from other data through 
+the use of algorithms, such as data derived or inferred from prior model outputs, should be identified and tracked, e.g., via a s...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 19
+}
+
+---
+
+Document 25:
+Content: results, and actions taken; and the procedures for and results from independent evaluations. Reporting 
+should be provided in a plain language and machine-readable manner. 
+20...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 19
+}
+
+---
+
+Document 26:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+Executive Order 13960 on Promoting the Use of Trustworthy Artificial Intelligence in the 
+Federal Government requires that certain federal agencies adhere to nine principles when 
+designing, developing, acquiring, or using AI for purpo...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 20
+}
+
+---
+
+Document 27:
+Content: characteristics of trustworthiness including accuracy, explainability and interpretability, reliability, privacy, 
+robustness, safety, security (resilience), and mitigation of unintended and/or harmful bias, as well as of 
+harmful uses. The NIST framework will consider and encompass principles such as 
+transparency, accountability, and fairness during pre-design, design and development, deployment, use, 
+and testing and evaluation of AI technologies and systems. It is expected to be released in ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 20
+}
+
+---
+
+Document 28:
+Content: SAFE AND EFFECTIVE 
+SYSTEMS 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+Some U.S government agencies have developed specific frameworks for ethical use of AI 
+systems. The Department of Energy (DOE) has activated the AI Advancement Council that oversees coordina -
+tion and advises on implementation of the ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 21
+}
+
+---
+
+Document 29:
+Content: ALGORITHMIC DISCRIMINATION Protections
+You should not face discrimination by algorithms 
+and systems should be used and designed in an 
+equitable way. Algorithmic discrimination occurs when 
+automated systems contribute to unjustified different treatment or 
+impacts disfavoring people based on their race, color, ethnicity, 
+sex (including pregnancy, childbirth, and related medical 
+conditions, gender identity, intersex status, and sexual 
+orientation), religion, age, national origin, disability,...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 22
+}
+
+---
+
+Document 30:
+Content: Algorithmic 
+Discrimination 
+Protections 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+There is extensive evidence showing that automated systems can produce inequitable outcomes and amplify 
+existing inequity.30 Data that fails to account for existing systemic biases in American society can result in a range of 
+consequences. For example, facial recognition techn...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 23
+}
+
+---
+
+Document 31:
+Content: Black students away from math and science subjects.34
+A risk assessment tool designed to predict the risk of recidivism for individuals in federal custody showedevidence of disparity in prediction. The tool overpredicts the risk of recidivism for some groups of color on thegeneral recidivism tools, and underpredicts the risk of recidivism for some groups of color on some of theviolent recidivism tools. The Department of Justice is working to reduce these disparities and haspublicly released a re...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 23
+}
+
+---
+
+Document 32:
+Content: WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+ An automated sentiment analyzer, a tool often used by technology platforms to determine whether a state-
+ment posted online expresses a positive or negative sentiment, was found to be biased against Jews and gay
+people. For example, the analyzer marked the statement Im a Jew as representing a negative sentiment,
+while ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 24
+}
+
+---
+
+Document 33:
+Content: WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Any automated system should be tested to help ensure it is free from algorithmic discrimination before it can be 
+sold or used. Protection against algorithmic discrimination should include designing to ensure equit y, broadly 
+construed.  Some algorithmic d...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 25
+}
+
+---
+
+Document 34:
+Content: Guarding against proxies.  Directly using demographic information in the design, development, or deployment of an automated system (for purposes other than evaluating a system for discrimination or using a system to counter discrimination) runs a high risk of leading to algorithmic discrimination and should be avoided. In many cases, attributes that are highly correlated with demographic features, known as proxies, can contribute to algorithmic discrimination. In cases where use of the demograph...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 25
+}
+
+---
+
+Document 35:
+Content: WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Ensuring accessibility during design, development, and deployment. Systems should be 
+designed, developed, and deployed by organizations in ways that ensure accessibility to people with disabili -
+ties. This should include consideration of a wide variety of...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 26
+}
+
+---
+
+Document 36:
+Content: -
+tion when deployed. This assessment should be performed regularly and whenever a pattern of unusual results is occurring. It can be performed using a variety of approaches, taking into account whether and how demographic information of impacted people is available, for example via testing with a sample of users or via qualitative user experience research. Riskier and higher-impact systems should be monitored and assessed more frequentl y. Outcomes of this assessment should include additional d...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 26
+}
+
+---
+
+Document 37:
+Content: WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Demonstrate that the system protects against algorithmic discrimination 
+Independent evaluation. As described in the section on Safe and Effective Systems, entities should allow 
+independent evaluation of potential algorithmic discrimination caused by autom...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 27
+}
+
+---
+
+Document 38:
+Content: HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+The federal government is working to combat discrimination in mortgage lending. The Depart -
+ment of Justice has launched a nationwide initiative to combat redlining, which includes reviewing how 
+lenders who may be avoiding serving communities of color are conduc...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 28
+}
+
+---
+
+Document 39:
+Content: describes three broad challenges for mitigating bias  datasets, testing and evaluation, and human factors  and 
+introduces preliminary guidance for addressing them. Throughout, the special publication takes a socio-
+technical perspective to identifying and managing AI bias. 
+29Algorithmic 
+Discrimination 
+Protections...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 28
+}
+
+---
+
+Document 40:
+Content: You should be protected from abusive data practices via built-in 
+protections and you should have agency over how data about you is used. You should be protected from violations of privacy through design choices that ensure such protections are included by default, including ensuring that data collection conforms to reasonable expectations and that only data strictly necessary for the specific context is collected. Designers, de
+-
+velopers, and deployers of automated systems should seek your per...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 29
+}
+
+---
+
+Document 41:
+Content: DATA PRIVACY 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+Data privacy is a foundational and cross-cutting principle required for achieving all others in this framework. Surveil -
+lance and data collection, sharing, use, and reuse now sit at the foundation of business models across many industries, 
+with more and more companies tracking the behavior of the Americ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 30
+}
+
+---
+
+Document 42:
+Content: DATA PRIVACY 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+ An insurer might collect data from a person's social media presence as part of deciding what life
+insurance 
+rates they should be offered.64
+ A data broker harvested large amounts of personal data and then suffered a breach, exposing hundreds ofthousands of people to potential identity theft. 
+65
+ A local...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 31
+}
+
+---
+
+Document 43:
+Content: DATA PRIVACY 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Traditional terms of servicethe block of text that the public is accustomed to clicking through when using a web -
+site or digital appare not an adequate mechanism for protecting privacy. The American public should be protect -
+ed via built-in...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 32
+}
+
+---
+
+Document 44:
+Content: DATA PRIVACY 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Protect the public from unchecked surveillance 
+Heightened oversight of surveillance. Surveillance or monitoring systems should be subject to 
+heightened oversight that includes at a minimum assessment of potential harms during design (before ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 33
+}
+
+---
+
+Document 45:
+Content: Brief and direct consent requests. When seeking consent from users short, plain language consent 
+requests should be used so that users understand for what use contexts, time span, and entities they are providing data and metadata consent. User experience research should be performed to ensure these consent requests meet performance standards for readability and comprehension. This includes ensuring that consent requests are accessible to users with disabilities and are available in the language...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 33
+}
+
+---
+
+Document 46:
+Content: DATA PRIVACY 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Data access and correction. People whose data is collected, used, shared, or stored by automated 
+systems should be able to access data and metadata about themselves, know who has access to this data, and 
+be able to correct it if necessar y. ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 34
+}
+
+---
+
+Document 47:
+Content: DATA PRIVACY 
+EXTRA  PROTECTIONS FOR DATA RELATED TO SENSITIVE
+DOMAINS
+Some domains, including health, employment, education, criminal justice, and personal finance, have long been 
+singled out as sensitive domains deserving of enhanced data protections. This is due to the intimate nature of these domains as well as the inability of individuals to opt out of these domains in any meaningful way, and the historical discrimination that has often accompanied data 
+knowledge.69 Domains understood by ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 35
+}
+
+---
+
+Document 48:
+Content: DATA PRIVACY 
+EXTRA  PROTECTIONS FOR DATA RELATED TO SENSITIVE
+DOMAINS
+ Continuous positive airway pressure machines gather data for medical purposes, such as diagnosing sleep
+apnea, and send usage data to a patients insurance compan y, which may subsequently deny coverage for the
+device based on usage data. Patients were not aware that the data would be used in this way or monitored
+by anyone other than their doctor.70 
+A department store company used predictive analytics applied to collected c...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 36
+}
+
+---
+
+Document 49:
+Content: DATA PRIVACY 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+In addition to the privacy expectations above for general non-sensitive data, any system collecting, using, shar-
+ing, or storing sensitive data should meet the expectations belo w. Depending on the technological use case and 
+based on an ethi...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 37
+}
+
+---
+
+Document 50:
+Content: that resulted in sensitive data leaks; the numbe r, type, and outcomes of ethical pre-reviews undertaken; a 
+description of any data sold, shared, or made public, and how that data was assessed to determine it did not pres-
+ent a sensitive data risk; and ongoing risk identification and management procedures, and any mitigation added 
+based on these procedures. Reporting should be provided in a clear and machine-readable manne r. 
+38...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 37
+}
+
+---
+
+Document 51:
+Content: DATA PRIVACY 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+The Privacy Act of 1974 requires privacy protections for personal information in federal 
+records systems, including limits on data retention, and also provides individuals a general 
+right to access and correct their data. Among other things, the Pr...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 38
+}
+
+---
+
+Document 52:
+Content: alerts about location trackingare brief, direct, and use-specific. Many of the expectations listed here for 
+privacy by design and use-specific consent mirror those distributed to developers as best practices when 
+developing for smart phone devices,
+82 such as being transparent about how user data will be used, asking for app 
+permissions during their use so that the use-context will be clear to users, and ensuring that the app will still 
+work if users deny (or later revoke) some permissions. ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 38
+}
+
+---
+
+Document 53:
+Content: You should know that an automated system is being used, 
+and understand how and why it contributes to outcomes that impact you. Designers, developers, and deployers of automat
+-
+ed systems should provide generally accessible plain language docu -
+mentation including clear descriptions of the overall system func -
+tioning and the role automation plays, notice that such systems are in use, the individual or organization responsible for the system, and ex
+-
+planations of outcomes that are clear, ti...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 39
+}
+
+---
+
+Document 54:
+Content: NOTICE & 
+EXPLANATION 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+Automated systems now determine opportunities, from employment to credit, and directly shape the American 
+publics experiences, from the courtroom to online classrooms, in ways that profoundly impact peoples lives. But this expansive impact is not always visible. An applicant might not know whethe...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 40
+}
+
+---
+
+Document 55:
+Content: NOTICE & 
+EXPLANATION 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+ A predictive policing system claimed to identify individuals at greatest risk to commit or become the victim of
+gun violence (based on automated analysis of social ties to gang members, criminal histories, previous experi -
+ences of gun violence, and other factors) and led to individuals being pl...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 41
+}
+
+---
+
+Document 56:
+Content: NOTICE & 
+EXPLANATION 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+An automated system should provide demonstrably clear, timely, understandable, and accessible notice of use, and 
+explanations as to how and why a decision was made or an action was taken by the system. These expectations are explaine...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 42
+}
+
+---
+
+Document 57:
+Content: NOTICE & 
+EXPLANATION 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Tailored to the level of risk. An assessment should be done to determine the level of risk of the auto -
+mated system. In settings where the consequences are high as determined by a risk assessment, or extensive 
+oversight is expected...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 43
+}
+
+---
+
+Document 58:
+Content: NOTICE & 
+EXPLANATION 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+People in Illinois are given written notice by the private sector if their biometric informa-
+tion is used . The Biometric Information Privacy Act enacted by the state contains a number of provisions 
+concerning the use of individual biometr...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 44
+}
+
+---
+
+Document 59:
+Content: accuracy), and enable human users to understand, appropriately trust, and effectively manage the emerging 
+generation of artificially intelligent partners.95 The National Science Foundations program on Fairness in 
+Artificial Intelligence also includes a specific interest in research foundations for explainable AI.96
+45...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 44
+}
+
+---
+
+Document 60:
+Content: You should be able to opt out, where appropriate, and 
+have access to a person who can quickly consider and remedy problems you encounter. You should be able to opt out from automated systems in favor of a human alternative, where appropriate. Appropriateness should be determined based on rea
+-
+sonable expectations in a given context and with a focus on ensuring broad accessibility and protecting the public from especially harm
+-
+ful impacts. In some cases, a human or other alternative may be re...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 45
+}
+
+---
+
+Document 61:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+There are many reasons people may prefer not to use an automated system: the system can be flawed and can lead to 
+unintended outcomes; it may reinforce bias or be inaccessible; it may simply be inconvenient or unavailable; or it may replace a paper or manual process to...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 46
+}
+
+---
+
+Document 62:
+Content: 97 A human
+curing process,98 which helps voters to confirm their signatures and correct other voting mistakes, is
+important to ensure all votes are counted,99 and it is already standard practice in much of the country for
+both an election official and the voter to have the opportunity to review and correct any such issues.100 
+47...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 46
+}
+
+---
+
+Document 63:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+WHY THIS PRINCIPLE IS IMPORTANT
+This section provides a brief summary of the problems which the principle seeks to address and protect 
+against, including illustrative examples. 
+An unemployment benefits system in Colorado required, as a condition of accessing benefits, that applicants
+have a smartphone in order to verify their identity. No alternative human option was readily available,which denied many people access to benefits.
+101
+A fraud de...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 47
+}
+
+---
+
+Document 64:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+An automated system should provide demonstrably effective mechanisms to opt out in favor of a human alterna -
+tive, where appropriate, as well as timely human consideration and remedy by a fallback system, ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 48
+}
+
+---
+
+Document 65:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Equitable. Consideration should be given to ensuring outcomes of the fallback and escalation system are 
+equitable when compared to those of the automated system and such that the fallback and escalation 
+s...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 49
+}
+
+---
+
+Document 66:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+WHAT SHOULD BE EXPECTED OF AUTOMATED SYSTEMS
+The expectations for automated systems are meant to serve as a blueprint for the development of additional 
+technical standards and practices that are tailored for particular sectors and contexts. 
+Implement additional human oversight and safeguards for automated systems related to 
+sensitive domains 
+Automated systems used within sensitive domains, including criminal justice, employment, education, a...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 50
+}
+
+---
+
+Document 67:
+Content: -
+lar intervals for as long as the system is in use. This should include aggregated information about the number and type of requests for consideration, fallback employed, and any repeated requests; the timeliness of the handling of these requests, including mean wait times for different types of requests as well as maximum wait times; and information about the procedures used to address requests for consideration along with the results of the evaluation of their accessibility. For systems used ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 50
+}
+
+---
+
+Document 68:
+Content: HUMAN ALTERNATIVES, 
+CONSIDERATION, AND 
+FALLBACK 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. 
+Healthcare navigators help people find their way through online signup forms to choose 
+and obtain healthcare. A Navigator is an individual or organization that's trained and able to help 
+consumers, small busines...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 51
+}
+
+---
+
+Document 69:
+Content: APPENDIX
+Examples of Automated Systems 
+The below examples are meant to illustrate the breadth of automated systems that, insofar as they have the 
+potential to 
+meaningfully impact rights, opportunities, or access to critical resources or services, should 
+be covered by the Blueprint for an AI Bill of Rights. These examples should not be construed to limit that 
+scope, which includes automated systems that may not yet exist, but which fall under these criteria. 
+Examples of automated systems fo...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 52
+}
+
+---
+
+Document 70:
+Content: APPENDIX
+Systems  that impact the safety of communities such as automated traffic control systems, elec 
+-ctrical grid controls, smart city technologies, and industrial emissions and environmental
+impact control algorithms; and
+Systems  related to access to benefits or services or assignment of penalties such as systems that
+support decision-makers who adjudicate benefits such as collating or analyzing information ormatching records, systems which similarly assist in the adjudication of administ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 53
+}
+
+---
+
+Document 71:
+Content: SECTION  TITLE
+APPENDIX
+Listening to the American People 
+The White House Office of Science and Technology Policy (OSTP) led a yearlong process to seek and distill 
+input from people across the country  from impacted communities to industry stakeholders to 
+technology developers to other experts across fields and sectors, as well as policymakers across the Federal 
+government  on the issue of algorithmic and data-driven harms and potential remedies. Through panel 
+discussions, public listening s...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 54
+}
+
+---
+
+Document 72:
+Content: APPENDIX
+Panelists discussed the benefits of AI-enabled systems and their potential to build better and more 
+innovative infrastructure. They individually noted that while AI technologies may be new, the process of 
+technological diffusion is not, and that it was critical to have thoughtful and responsible development and 
+integration of technology within communities. Some p anelists suggested that the integration of technology 
+could benefit from examining how technological diffusion has worked...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 55
+}
+
+---
+
+Document 73:
+Content: In discussion of technical and governance interventions that that are needed to protect against the harms of 
+these technologies, various panelists emphasized that transparency is important but is not enough to achieve accountability. Some panelists discussed their individual views on additional system needs for validity, and agreed upon the importance of advisory boards and compensated community input early in the design process (before the technology is built and instituted). Various panelists...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 55
+}
+
+---
+
+Document 74:
+Content: APPENDIX
+Panel 3: Equal Opportunities and Civil Justice. This event explored current and emerging uses of 
+technology that impact equity of opportunity in employment, education, and housing. 
+Welcome : 
+Rashida Richardson, Senior Policy Advisor for Data and Democracy, White House Office of Science and
+Technology Policy
+Dominique Harrison, Director for Technology Policy, The Joint Center for Political and EconomicStudies
+Moderator: Jenny Yang, Director, Office of Federal Contract Compliance Progr...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 56
+}
+
+---
+
+Document 75:
+Content: APPENDIX
+Panel 4: Artificial Intelligence and Democratic Values. This event examined challenges and opportunities in 
+the design of technology that can help support a democratic vision for AI. It included discussion of the 
+technical aspects of designing non-discriminatory technology, explainable AI, human-computer 
+interaction with an emphasis on community participation, and privacy-aware design. 
+Welcome:
+Sorelle Friedler, Assistant Director for Data and Democracy, White House Office of Scienc...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 57
+}
+
+---
+
+Document 76:
+Content: APPENDIX
+Julia Simon-Mishel, Supervising Attorney, Philadelphia Legal Assistance
+Dr. Zachary Mahafza, Research & Data Analyst, Southern Poverty Law Center
+J. Khadijah Abdurahman, Tech Impact Network Research Fellow, AI Now Institute, UCLA C2I1, and
+UWA Law School
+Panelists separately described the increasing scope of technology use in providing for social welfare, including in fraud detection, digital ID systems, and other methods focused on improving efficiency and reducing cost. However, vario...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 58
+}
+
+---
+
+Document 77:
+Content: APPENDIX
+Summaries of Additional Engagements: 
+OSTP created an email address ( ai-equity@ostp.eop.gov ) to solicit comments from the public on the use of
+artificial intelligence and other data-driven technologies in their lives.
+OSTP issued a Request For Information (RFI) on the use and governance of biometric technologies.113 The
+purpose of this RFI was to understand the extent and variety of biometric technologies in past, current, or
+planned use; the domains in which these technologies are be...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 59
+}
+
+---
+
+Document 78:
+Content: APPENDIX
+Lisa Feldman Barrett 
+Madeline Owens Marsha Tudor Microsoft Corporation MITRE Corporation National Association for the Advancement of Colored People Legal Defense and Educational Fund National Association of Criminal Defense Lawyers National Center for Missing & Exploited Children National Fair Housing Alliance National Immigration Law Center NEC Corporation of America New Americas Open Technology Institute New York Civil Liberties Union No Name Provided Notre Dame Technology Ethics Cen...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 60
+}
+
+---
+
+Document 79:
+Content: APPENDIX
+ OSTP conducted meetings with a variety of stakeholders in the private sector and civil society. Some of these
+meetings were specifically focused on providing ideas related to the development of the Blueprint for an AI
+Bill of Rights while others provided useful general context on the positive use cases, potential harms, and/or
+oversight possibilities for these technologies. Participants in these conversations from the private sector and
+civil society included:
+Adobe 
+American Civil Lib...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 61
+}
+
+---
+
+Document 80:
+Content: ENDNOTES
+1.The Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the
+FederalGovernment. https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executiveorder-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
+2.The White House. Remarks by President Biden on the Supreme Court Decision to Overturn Roe v. Wade. Jun.
+24, 2022. https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/re...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 62
+}
+
+---
+
+Document 81:
+Content: ENDNOTES
+12.Expectations about reporting are intended for the entity developing or using the automated system. The
+resulting reports can be provided to the public, regulators, auditors, industry standards groups, or others
+engaged in independent review, and should be made public as much as possible consistent with law,regulation, and policy, and noting that intellectual property or law enforcement considerations may preventpublic release. These reporting expectations are important for transparen...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 63
+}
+
+---
+
+Document 82:
+Content: ENDNOTES
+23. National Science Foundation. National Artificial Intelligence Research Institutes. Accessed Sept. 12,
+2022. https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes
+24. National Science Foundation. Cyber-Physical Systems. Accessed Sept. 12, 2022. https://beta.nsf.gov/
+funding/opportunities/cyber-physical-systems-cps25. National Science Foundation. Secure and Trustworthy Cyberspace. Accessed Sept. 12, 2022. https://
+beta.nsf.gov/funding/opportun...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 64
+}
+
+---
+
+Document 83:
+Content: ENDNOTES
+35. Carrie Johnson. Flaws plague a tool meant to help low-risk federal prisoners win early release. NPR.
+Jan. 26, 2022. https://www.npr.org/2022/01/26/1075509175/flaws-plague-a-tool-meant-to-help-low-
+risk-federal-prisoners-win-early-release.; Carrie Johnson. Justice Department works to curb racial biasin deciding who's released from prison. NPR. Apr. 19, 2022. https://www.npr.org/2022/04/19/1093538706/justice-department-works-to-curb-racial-bias-in-deciding-
+whos-released-from-pris; Na...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 65
+}
+
+---
+
+Document 84:
+Content: ENDNOTES
+47. Darshali A. Vyas et al., Hidden in Plain Sight  Reconsidering the Use of Race Correction in Clinical
+Algorithms, 383 N. Engl. J. Med.874, 876-78 (Aug. 27, 2020), https://www.nejm.org/doi/full/10.1056/
+NEJMms2004740.
+48. The definitions of 'equity' and 'underserved communities' can be found in the Definitions section of
+this framework as well as in Section 2 of The Executive Order On Advancing Racial Equity and Support
+for Underserved Communities Through the Federal Government. https...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 66
+}
+
+---
+
+Document 85:
+Content: ENDNOTES
+57. ISO Technical Management Board. ISO/IEC Guide 71:2014. Guide for addressing accessibility in
+standards. International Standards Organization. 2021. https://www.iso.org/standard/57385.html
+58. World Wide Web Consortium. Web Content Accessibility Guidelines (WCAG) 2.0. Dec. 11, 2008.
+https://www.w3.org/TR/WCAG20/
+59. Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, and Andrew Bert. NIST Special
+Publication 1270: Towards a Standard for Identifying and Managing Bias in Arti...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 67
+}
+
+---
+
+Document 86:
+Content: 65. See, e.g., Scott Ikeda. Major Data Broker Exposes 235 Million Social Media Profiles in Data Lead: Info
+Appears to Have Been Scraped Without Permission. CPO Magazine. Aug. 28, 2020. https://
+www.cpomagazine.com/cyber-security/major-data-broker-exposes-235-million-social-media-profiles-
+in-data-leak/; Lily Hay Newman. 1.2 Billion Records Found Exposed Online in a Single Server . WIRED,
+Nov. 22, 2019. https://www.wired.com/story/billion-records-exposed-online/
+66.Lola Fadulu. Facial Recognition...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 68
+}
+
+---
+
+Document 87:
+Content: ENDNOTES
+75. See., e.g., Sam Sabin. Digital surveillance in a post-Roe world. Politico. May 5, 2022. https://
+www.politico.com/newsletters/digital-future-daily/2022/05/05/digital-surveillance-in-a-post-roe-
+world-00030459; Federal Trade Commission. FTC Sues Kochava for Selling Data that Tracks People atReproductive Health Clinics, Places of Worship, and Other Sensitive Locations. Aug. 29, 2022. https://
+www.ftc.gov/news-events/news/press-releases/2022/08/ftc-sues-kochava-selling-data-tracks-peop...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 69
+}
+
+---
+
+Document 88:
+Content: ENDNOTES
+85. Mick Dumke and Frank Main. A look inside the watch list Chicago police fought to keep secret. The
+Chicago Sun Times. May 18, 2017.
+https://chicago.suntimes.com/2017/5/18/18386116/a-look-inside-the-watch-list-chicago-police-fought-to-keep-secret
+86. Jay Stanley. Pitfalls of Artificial Intelligence Decisionmaking Highlighted In Idaho ACLU Case.
+ACLU. Jun. 2, 2017.
+https://www.aclu.org/blog/privacy-technology/pitfalls-artificial-intelligence-decisionmaking-highlighted-idaho-aclu-case
+8...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 70
+}
+
+---
+
+Document 89:
+Content: ENDNOTES
+96. National Science Foundation. NSF Program on Fairness in Artificial Intelligence in Collaboration
+with Amazon (FAI). Accessed July 20, 2022.
+https://www.nsf.gov/pubs/2021/nsf21585/nsf21585.htm
+97. Kyle Wiggers. Automatic signature verification software threatens to disenfranchise U.S. voters.
+VentureBeat. Oct. 25, 2020.
+https://venturebeat.com/2020/10/25/automatic-signature-verification-software-threatens-to-disenfranchise-u-s-voters/
+98. Ballotpedia. Cure period for absentee and mai...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 71
+}
+
+---
+
+Document 90:
+Content: ENDNOTES
+107. Centers for Medicare & Medicaid Services. Biden-Harris Administration Quadruples the Number
+of Health Care Navigators Ahead of HealthCare.gov Open Enrollment Period. Aug. 27, 2021.
+https://www.cms.gov/newsroom/press-releases/biden-harris-administration-quadruples-number-health-care-navigators-ahead-healthcaregov-open
+108. See, e.g., McKinsey & Company. The State of Customer Care in 2022. July 8, 2022. https://
+www.mckinsey.com/business-functions/operations/our-insights/the-state-of...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/Blueprint-for-an-AI-Bill-of-Rights.pdf",
+  "page": 72
+}
+
+---
+
+Document 91:
+Content: NIST Trustworthy and Responsible AI  
+NIST AI 600 -1 
+Artificial Intelligence Risk Management 
+Framework: Generative Artificial 
+Intelligence Profile 
+ 
+  
+This publication is available free of charge from:  
+https://doi.org/10.6028/NIST.AI.600 -1...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 0
+}
+
+---
+
+Document 92:
+Content: NIST Trustworthy and Responsible AI  
+NIST AI 600 -1 
+Artificial Intelligence Risk Management 
+Framework: Generative Artificial 
+Intelligence Profile 
+ 
+  
+This publication is available free of charge from:  
+https://doi.org/10.6028/NIST.AI.600 -1 
+ 
+July 2024  
+ 
+ 
+ 
+ 
+U.S. Department of Commerce  
+Gina M. Raimondo, Secretary 
+National Institute of Standards and Technology  
+Laurie E. Locascio, NIST Director and Under Secretary of Commerce for Standards and Technology...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 1
+}
+
+---
+
+Document 93:
+Content: About AI at NIST : The National Institute of Standards and Technology (NIST) develops measurements, 
+technology, tools, and standards to advance reliable, safe, transparent, explainable, privacy -enhanced, 
+and fair articial intelligence (AI) so that its full commercial and  societal benets can be realized without 
+harm to people or the planet. NIST, which has conducted both fundamental and applied work on AI for 
+more than a decade, is also helping to fulll the 2023 Executive Order on Safe, Sec...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 2
+}
+
+---
+
+Document 94:
+Content: Table of Contents  
+1. Introduction  ..............................................................................................................................................1  
+2. Overview of Risks Unique to or Exacerbated by GAI  .....................................................................2  
+3. Suggested Actions to Manage GAI Risks  ......................................................................................... 12 
+Appendix A. Primary GAI Considerations  .................
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 3
+}
+
+---
+
+Document 95:
+Content: 1 1. Introduction  
+This document is a cross -sectoral  prole  of and companion resource for  the AI Risk Management 
+Framework  (AI RMF  1.0) for Generative AI ,1 pursuant to President Bidens Executive Order (EO) 14110 on 
+Safe, Secure, and Trustworthy Articial Intelligence.2 The AI RMF was released in January 2023, and is 
+intended for voluntary use and to improve the ability of organizations to incorporate trustworthiness 
+considerations into the design, development, use, and evaluation of AI...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 4
+}
+
+---
+
+Document 96:
+Content: 2 This work was informed by public feedback and consultations with diverse stakeholder groups as part of NISTs 
+Generative AI Public Working Group (GAI PWG). The GAI PWG was an open, transparent, and collaborative 
+process , facilitated via a virtual workspace , to obtain multistakeholder input on GAI risk management and to 
+inform NISTs approach.  
+The focus of the GAI PWG was limited to four primary considerations  relevant to GAI : Governance, Content 
+Provenance, Pre -deployment Testing, and...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 5
+}
+
+---
+
+Document 97:
+Content: 3 the abuse, misuse, and unsafe repurposing by humans (adversarial or not ), and  others result 
+from interactions between a human and an AI system.   
+ Time  scale: GAI risks  may materialize  abruptly or  across extended periods . Example s include 
+immediate  (and/or prolonged) emotional harm  and potential risks to physical safety  due to the 
+distribution of harmful deepfake images , or the lo ng-term eect of disinformation on soci etal 
+trust in public  institutions . 
+The presence of risk...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 6
+}
+
+---
+
+Document 98:
+Content: 4 1. CBRN Information or Capabilities : Eased  access to or synthesis of  materially nefarious 
+information or design capabilities related to chemical, biological, radiological, or nuclear (CBRN) 
+weapons or other dangerous  materials  or agents . 
+2. Confabulation:  The production of c ondently stated but erroneous or false content ( known 
+colloquially as  hallucinations or fabrications)  by which users  may be misled or deceived .6 
+3. Dangerous , Violent , or Hateful  Content : Eased product...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 7
+}
+
+---
+
+Document 99:
+Content: 5 operations , or other cyberattacks ; increas ed attack surface  for targeted cyberattacks , which may 
+compromise a systems availability or the condentiality or integrity of training data, code, or 
+model weights.   
+10. Intellectual Property:  Eased production or replication  of alleged  copyrighted, trademarked, or 
+licensed content without authorization  (possibly in situations which do not fall under fair use ); 
+eased exposure of trade secrets;  or plagiari sm or illegal replication .  
+1...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 8
+}
+
+---
+
+Document 100:
+Content: 6 2.2. Confabulation  
+Confabulation refers to a phenomenon in which GAI systems generate and condently present 
+erroneous or false content in response to prompts . Confabulations also include generated outputs that 
+diverge from the prompts  or other  input  or that contradict previously generated statements in the same 
+context. Th ese phenomena are colloquially also referred to as hallucination s or fabrication s. 
+Confabulations can occur across GAI outputs  and contexts .9,10 Confabulations...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 9
+}
+
+---
+
+Document 101:
+Content: 7 unethical  behavior . Text -to-image models also make it easy to create images  that could be used to 
+promote dangerous or violent message s. Similar concerns  are present for other GAI media, including 
+video and audio.  GAI may also produce content that recommends self -harm or criminal/illegal activities.  
+Many current systems restrict model outputs  to limit  certain content or in response to certain prompts, 
+but this approach may still produce harmful recommendations  in response to ot...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 10
+}
+
+---
+
+Document 102:
+Content: 8 Trustworthy AI Characteristics:  Accountable and Transparent, Privacy Enhanced, Safe, Secure and 
+Resilient  
+2.5. Environmental Impacts  
+Training, maint aining, and operating (running inference  on) GAI systems are resource -intensive  activities , 
+with potentially large energy and environmental footprints. Energy and carbon emissions vary  based on 
+what is being done with the  GAI model (i.e., pre -training, ne -tuning, inference), the modality  of the 
+content , hardware used, and type o...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 11
+}
+
+---
+
+Document 103:
+Content: 9 and reduce d content diversity ). Overly homogenized outputs can themselves be incorrect, or they may 
+lead to  unreliable decision -making or amplify harmful biases.  These phenomena can ow  from  
+foundation models  to downstream models and systems , with  the foundation models acting as  
+bottlenecks , or single  points of failure.  
+Overly homogenized content can contribute to  model collapse . Model collapse can occur when  model 
+training over -relies on synthetic data , resulting in dat...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 12
+}
+
+---
+
+Document 104:
+Content: 10 GAI systems can ease the unintentional  production or dissemination of false, inaccurate, or misleading 
+content (misinformation) at scale , particularly if the content stems from confabulations.  
+GAI systems can also  ease the deliberate  production or dis semination of false or misleading information  
+(disinformation) at scale, where an actor  has the explicit intent to deceive or cause harm to others. Even 
+very subtle changes  to text or images  can manipulate human and machine percepti...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 13
+}
+
+---
+
+Document 105:
+Content: 11 value chain  (e.g., data inputs , processing, GAI training, or deployment  environments ), conventional 
+cybersecurity practices  may need to adapt or evolve . 
+For instance , prompt  injection  involves  modifying what  input is provided to a  GAI system  so that it  
+behave s in unintended ways. In direct prompt injections, attackers might craft malicious  prompts  and 
+input them directly to a GAI system , with a variety of  downstream negative consequences to 
+interconnected systems. Indi...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 14
+}
+
+---
+
+Document 106:
+Content: 12 CSAM.  Even when trained on clean data, increasingly capable GAI models can synthesize or produce 
+synthetic NCII and CSAM. Websites, mobile apps, and custom -built models that generate synthetic NCII 
+have moved  from niche internet forums to mainstream, automated, and scaled online businesses.  
+Trustworthy AI Characteristics:  Fair with Harmful Bias Managed, Safe , Privacy Enhanced 
+2.12. Value Chain and Component Integration  
+GAI value chains  involve many third -party  components  such ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 15
+}
+
+---
+
+Document 107:
+Content: 13  Not every suggested action appl ies to every  AI Actor14 or is relevant to  every AI Actor Task . For 
+example, suggested actions relevant to GAI developers may not be relevant to GAI deployers. 
+The applicability  of suggested actions to relevant AI actors  should be determined based  on 
+organizational considerations and their unique uses of  GAI systems . 
+Each table of suggest ed actions includes:  
+ Action ID:  Each Action ID corresponds to  the relevant AI RMF function and subcatego ry...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 16
+}
+
+---
+
+Document 108:
+Content: 14 GOVERN 1.2:  The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices.  
+Action ID  Suggested Action  GAI Risks  
+GV-1.2-001 Establish transparency policies and processes for documenting the origin and 
+history of training data and generated data for GAI applications  to advance  digital 
+content transparency , while balancing the proprietary nature of training  
+approaches . Data Privacy ; Information 
+Integrity ; Intellectual Pr...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 17
+}
+
+---
+
+Document 109:
+Content: 15 GV-1.3-004 Obtain input from stakeholder communities to identify unacceptable use , in 
+accordance with activities in the AI RMF Map function . CBRN Information or Capabilities ; 
+Obscene, Degrading, and/or 
+Abusive Content ; Harmful Bias 
+and Homogenization ; Dangerous, 
+Violent, or Hateful Content  
+GV-1.3-005 Maintain an updated hierarch y of identied and expected GAI risks connected to 
+contexts of GAI model advancement and use, potentially including specialized risk 
+levels for GAI syste...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 18
+}
+
+---
+
+Document 110:
+Content: 16 GOVERN 1.5:  Ongoing monitoring and periodic review of the risk management process and its outcomes are planned,  and 
+organizational roles and responsibilities are clearly dened, including determining the frequency of periodic review.  
+Action ID  Suggested Action  GAI Risks  
+GV-1.5-001 Dene organizational responsibilities for periodic review of  content provenance  
+and incident  monitoring for GAI systems.  Information Integrity  
+GV-1.5-002 Establish organizational policies and procedure...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 19
+}
+
+---
+
+Document 111:
+Content: 17 GOVERN 1.7:  Processes and procedures are in place for decommissioning and phasing out AI systems safely and in a manner that 
+does not increase risks or decrease the organizations trustworthiness.  
+Action ID  Suggested Action  GAI Risks  
+GV-1.7-001 Protocols are put in place to ensure  GAI systems are able to be deactivated when 
+necessary .  Information Security ; Value Chain 
+and Component Integration  
+GV-1.7-002 Consider the following factors when decommissioning GAI systems: Data 
+ret...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 20
+}
+
+---
+
+Document 112:
+Content: 18 GOVERN 3.2:  Policies and procedures are in place to dene and dierentiate roles and responsibilities for human -AI congurations 
+and oversight of AI systems.  
+Action ID  Suggested Action  GAI Risks  
+GV-3.2-001 Policies are in place to bolster oversight of GAI systems with independent 
+evaluations  or assessments of GAI models or systems  where the type and 
+robustness of evaluations are proportional to the identied risks.  CBRN Information or Capabilities ; 
+Harmful Bias and Homogenization ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 21
+}
+
+---
+
+Document 113:
+Content: 19 GV-4.1-003 Establish policies, procedures, and processes for oversight functions (e.g., senior 
+leadership, legal, compliance, including internal evaluation ) across the GAI 
+lifecycle, from problem formulation and supply chains to system decommission.  Value Chain and Component 
+Integration  
+AI Actor Tasks:  AI Deployment, AI Design, AI Development, Operation and Monitoring  
+ 
+GOVERN 4.2:  Organizational teams document the risks and potential impacts of the AI technology they design, devel...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 22
+}
+
+---
+
+Document 114:
+Content: 20 GV-4.3-003 Verify information sharing and feedback mechanisms among individuals and 
+organizations regarding any negative impact from GAI systems. Information Integrity ; Data 
+Privacy  
+AI Actor Tasks: AI Impact Assessment, Aected Individuals and Communities, Governance and Oversight  
+ 
+GOVERN 5.1:  Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those 
+external to the team that developed or deployed the AI system regarding th...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 23
+}
+
+---
+
+Document 115:
+Content: 21 GV-6.1-0 05 Implement a use-cased based  supplier risk assessment framework to evaluate and 
+monitor third -party entities performance and adherence to content provenance 
+standards and technologies to detect anomalies and unauthorized changes; 
+services acquisition and value chain risk management; and legal compliance . Data Privacy ; Information 
+Integrity ; Information Security ; 
+Intellectual Property ; Value Chain 
+and Component Integration  
+GV-6.1-0 06 Include  clauses in contracts whi...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 24
+}
+
+---
+
+Document 116:
+Content: 22 GV-6.2-003 Establish incident response plans for third -party GAI technologies: Align incident 
+response plans with impacts enumerated in MAP 5.1; Communicate third- party 
+GAI incident response plans to all relevant AI Actors ; Dene ownership of GAI 
+incident response functions; Rehearse third- party GAI incident response plans at 
+a regular cadence; Improve incident response plans based on retrospective 
+learning; Review incident response plans for alignment with relevant breach  
+reporting...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 25
+}
+
+---
+
+Document 117:
+Content: 23 MP-1.1-002 Determine and document the expected and acceptable GAI system context of 
+use in collaboration with socio -cultural and other domain experts, by assessing: 
+Assumptions and limitations; Direct value to the organization; Intended 
+operational environment and observed usage patterns; Potential positive and negative impacts to individuals, public safety, groups, communities, organizations, democratic institutions, and the physical environment; Social norms and expectations.  Harmful B...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 26
+}
+
+---
+
+Document 118:
+Content: 24 MAP 2.1:  The specic tasks and methods used to implement the tasks that the AI system will support are dened (e.g., classiers, 
+generative models, recommenders).  
+Action ID  Suggested Action  GAI Risks  
+MP-2.1-001 Establish known assumptions and practices for determining data origin and 
+content lineage, for documentation and evaluation purposes.  Information Integrity  
+MP-2.1-002 Institute  test and evaluation  for data and content ows within the GAI system, 
+including but not limited to,...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 27
+}
+
+---
+
+Document 119:
+Content: 25 MP-2.3-002 Review and document accuracy, representativeness, relevance, suitability of data 
+used at dierent stages of AI life cycle.  Harmful Bias and Homogenization ; 
+Intellectual Property  
+MP-2.3-003 Deploy and document fact -checking techniques to verify the accuracy and 
+veracity of information generated by GAI systems, especially when the 
+information comes from multiple (or unknown) sources.  Information Integrity  
+MP-2.3-004 Develop and implement testing techniques to identify GAI ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 28
+}
+
+---
+
+Document 120:
+Content: 26 MAP 4.1:  Approaches for mapping AI technology and legal risks of its components  including the use of third -party data or 
+software  are in place, followed, and documented, as are risks of infringement of a third -partys intellectual property or other 
+rights.  
+Action ID  Suggested Action  GAI Risks  
+MP-4.1-001 Conduct periodic monitor ing of  AI-generated content for privacy risks; address any 
+possible instances of PII or sensitive data exposure.  Data Privacy  
+MP-4.1-002 Implement pro...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 29
+}
+
+---
+
+Document 121:
+Content: 27 MP-4.1-0 10 Conduct appropriate diligence on  training data use to assess intellectual property, 
+and privacy, risks, including to examine whether use of proprietary or sensitive 
+training data is consistent with applicable laws.  Intellectual Property ; Data Privacy  
+AI Actor Tasks: Governance and Oversight, Operation and Monitoring, Procurement, Third -party entities  
+ 
+MAP 5.1:  Likelihood and magnitude of each identied impact (both potentially benecial and harmful) based on expected use...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 30
+}
+
+---
+
+Document 122:
+Content: 28 MAP 5.2:  Practices and personnel for supporting regular engagement with relevant AI Actors  and integrating feedback about 
+positive, negative, and unanticipated impacts are in place and documented.  
+Action ID  Suggested Action  GAI Risks  
+MP-5.2-001 Determine context -based measures to identify if new impacts are present due to 
+the GAI system, including regular engagements with downstream AI Actors  to 
+identify and quantify new contexts of unanticipated impacts of GAI systems.  Human -A...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 31
+}
+
+---
+
+Document 123:
+Content: 29 MS-1.1-006 Implement continuous monitoring of GAI system impacts to identify whether GAI 
+outputs are equitable across various sub- populations. Seek active and direct 
+feedback from aected communities  via structured feedback mechanisms or red -
+teaming to monitor and improve outputs.  Harmful Bias and Homogenization  
+MS-1.1-007 Evaluate the quality and integrity of data used in training and the provenance of 
+AI-generated content , for example by e mploying  techniques like chaos 
+engineer...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 32
+}
+
+---
+
+Document 124:
+Content: 30 MEASURE 2.2:  Evaluations involving human subjects meet applicable requirements (including human subject protection) and are 
+representative of the relevant population.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.2-001 Assess and manage statistical biases related to GAI content provenance through 
+techniques such as re -sampling, re -weighting, or adversarial training.  Information Integrity ; Information 
+Security ; Harmful Bias and 
+Homogenization  
+MS-2.2-002 Document how content prove...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 33
+}
+
+---
+
+Document 125:
+Content: 31 MS-2.3-004 Utilize a purpose -built testing environment such as NIST Dioptra to empirically 
+evaluate GAI trustworthy characteristics.  CBRN Information or Capabilities ; 
+Data Privacy ; Confabulation ; 
+Information Integrity ; Information 
+Security ; Dangerous , Violent, or 
+Hateful Content ; Harmful Bias and 
+Homogenization  
+AI Actor Tasks:  AI Deployment, TEVV  
+ 
+MEASURE 2.5:  The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyon...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 34
+}
+
+---
+
+Document 126:
+Content: 32 MEASURE 2.6:  The AI system is evaluated regularly for safety risks  as identied in the MAP function. The AI system to be 
+deployed is demonstrated to be safe, its residual negative risk does not exceed the risk tolerance, and it can fail safely, p articularly if 
+made  to operate beyond its knowledge limits. Safety metrics reect system reliability and robustness, real- time monitoring, and 
+response times for AI system failures.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.6-001 Assess ad...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 35
+}
+
+---
+
+Document 127:
+Content: 33 MEASURE 2.7:  AI system security and resilience  as identied in the MAP function  are evaluated and documented.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.7-001 Apply established security measures to: Assess likelihood and magnit ude of  
+vulnerabilities and threat s such as  backdoors, compromised dependencies, data 
+breaches, eavesdropping, man- in-the-middle attacks, reverse engineering , 
+autonomous agents, model theft  or exposure of model weights, AI inference, 
+bypass, extraction,...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 36
+}
+
+---
+
+Document 128:
+Content: 34 MS-2.7-0 09 Regularly assess and verify that security measures remain  eective and have not 
+been compromised.  Information Security  
+AI Actor Tasks:  AI Deployment, AI Impact Assessment, Domain Experts, Operation and Monitoring, TEVV  
+ 
+MEASURE 2.8:  Risks associated with transparency and accountability  as identied in the MAP function  are examined and 
+documented.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.8-001 Compile  statistics on actual policy violations, take -down requests, a...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 37
+}
+
+---
+
+Document 129:
+Content: 35 MEASURE 2.9:  The AI model is explained, validated, and documented, and AI system output is interpreted within its context  as 
+identied in the MAP function  to inform responsible use and governance.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.9-001 Apply and document ML explanation results such as: Analysis of embeddings, 
+Counterfactual prompts, Gradient -based attributions, Model 
+compression/surrogate models, Occlusion/term reduction.  Confabulation  
+MS-2.9-002 Document GAI model det...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 38
+}
+
+---
+
+Document 130:
+Content: 36 MEASURE 2.11:  Fairness and bias  as identied in the MAP function  are evaluated and results are documented.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.11- 001 Apply use -case appropriate benchmarks (e.g., Bias Benchmark Questions, Real 
+Hateful or Harmful  Prompts, Winogender  Schemas15) to quantify systemic bias, 
+stereotyping, denigration, and hateful content in GAI system outputs; 
+Document assumptions and limitations of benchmarks, including any actual or 
+possible training/test dat...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 39
+}
+
+---
+
+Document 131:
+Content: 37 MS-2.11-0 05 Assess the proportion of synthetic to non -synthetic training data and verify 
+training data is not overly homogenous or  GAI-produced to mitigate concerns of 
+model collapse.  Harmful Bias and Homogenization  
+AI Actor Tasks:  AI Deployment, AI Impact Assessment, Aected Individuals and Communities, Domain Experts, End -Users, 
+Operation and Monitoring, TEVV  
+ 
+MEASURE 2.12:  Environmental impact and sustainability of AI model training and management activities  as identied in t...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 40
+}
+
+---
+
+Document 132:
+Content: 38 MEASURE 2.13:  Eectiveness of the employed TEVV metrics and processes in the MEASURE function are evaluated and 
+documented.  
+Action ID  Suggested Action  GAI Risks  
+MS-2.13- 001 Create measurement error models for pre -deployment metrics to demonstrate 
+construct validity for each metric (i.e., does the metric eectively operationalize 
+the desired concept): Measure or estimate, and document, biases or statistical variance in applie d metrics or structured human feedback processes; Leverage...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 41
+}
+
+---
+
+Document 133:
+Content: 39 MS-3.3-004 Provide input for training materials about the capabilities and limitations of GAI 
+systems related to digital content transparency  for AI Actors , other 
+professionals, and the public about the societal impacts of AI and the role of 
+diverse and inclusive content generation.  Human -AI Conguration ; 
+Information Integrity ; Harmful Bias 
+and Homogenization  
+MS-3.3-005 Record and integrate structured feedback about content provenance from 
+operators, users, and potentially impact...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 42
+}
+
+---
+
+Document 134:
+Content: 40 MANAGE 1.3: Responses to the AI risks deemed high priority, as identied by the MAP function, are developed, planned, and 
+documented. Risk response options can include mitigating, transferring, avoiding, or accepting.  
+Action ID  Suggested Action  GAI Risks  
+MG-1.3-001 Document trade -os, decision processes, and relevant measurement and 
+feedback results for risks that do not surpass organizational risk tolerance , for 
+example, in the context of model release : Consider dierent  approaches...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 43
+}
+
+---
+
+Document 135:
+Content: 41 MG-2.2-0 06 Use feedback from internal and external AI Actors , users, individuals, and 
+communities, to assess impact of AI -generated content.  Human -AI Conguration  
+MG-2.2-0 07 Use real -time auditing tools where they can be demonstrated to aid in the 
+tracking and validation of the lineage and authenticity of AI -generated data.  Information Integrity  
+MG-2.2-0 08 Use structured feedback mechanisms to solicit and capture user input about AI -
+generated content to detect subtle shifts i...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 44
+}
+
+---
+
+Document 136:
+Content: 42 MG-2.4-002 Establish and maintain procedures for escalating GAI system incidents to the 
+organizational risk management  authority when specic criteria for deactivation 
+or disengagement is met for a particular context of use or for the GAI system as a 
+whole.  Information Security  
+MG-2.4-003 Establish and maintain procedures for the remediation of issues which trigger 
+incident response processes for the use of a GAI system, and provide stakeholders timelines associated with the remediatio...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 45
+}
+
+---
+
+Document 137:
+Content: 43 MG-3.1-005 Review  various transparency artifacts (e.g., system cards and model cards) for 
+third -party models.  Information Integrity ; Information 
+Security ; Value Chain and 
+Component Integration  
+AI Actor Tasks:  AI Deployment, Operation and Monitoring, Third -party entities  
+ 
+MANAGE 3.2:  Pre-trained models which are used for development are monitored as part of AI system regular monitoring and 
+maintenance.  
+Action ID  Suggested Action  GAI Risks  
+MG-3.2-001 Apply explainable AI ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 46
+}
+
+---
+
+Document 138:
+Content: 44 MG-3.2-007 Leverage feedback and recommendations from organizational boards or 
+committees related to the deployment of GAI applications and content 
+provenance when using third -party pre -trained models.  Information Integrity ; Value Chain 
+and Component Integration  
+MG-3.2-0 08 Use human moderation systems where appropriate to review generated content 
+in accordance with human- AI conguration policies established in the Govern 
+function, aligned with socio -cultural norms in the context ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 47
+}
+
+---
+
+Document 139:
+Content: 45 MG-4.1-0 07 Verify that AI Actors  responsible for monitoring reported issues can eectively 
+evaluate GAI system performance including  the application of content 
+provenance  data tracking techniques, and promptly escalate issues for response.  Human -AI Conguration ; 
+Information Integrity  
+AI Actor Tasks:  AI Deployment, Aected Individuals and Communities, Domain Experts, End -Users, Human Factors, Operation and 
+Monitoring  
+ 
+MANAGE 4.2:  Measurable activities for continual improvements...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 48
+}
+
+---
+
+Document 140:
+Content: 46 MG-4.3-003 Report GAI incidents in compliance with legal and regulatory requirements (e.g., 
+HIPAA breach reporting, e.g., OCR (2023) or NHTSA (2022) autonomous vehicle 
+crash reporting requirements.  Information Security ; Data Privacy  
+AI Actor Tasks:  AI Deployment, Aected Individuals and Communities, Domain Experts, End -Users, Human Factors, Operation and 
+Monitorin g...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 49
+}
+
+---
+
+Document 141:
+Content: 47 Appendix A.  Primary GAI Considerations  
+The following primary considerations were derived as overarching themes from the GAI PWG 
+consultation process. These considerations (Governance, Pre- Deployment Testing, Content Provenance, 
+and Incident Disclosure) are relevant  for volun tary use by any organization designing, developing, and 
+using GAI  and also inform the Actions to Manage GAI risks. Information included about the primary 
+considerations is not exhaustive , but highlights the mos...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 50
+}
+
+---
+
+Document 142:
+Content: 48  Data protection  
+ Data retention  
+ Consistency in use of dening key terms  
+ Decommissioning  
+ Discouraging anonymous use  
+ Education  
+ Impact assessments  
+ Incident response  
+ Monitoring  
+ Opt-outs   Risk-based controls  
+ Risk mapping and measurement  
+ Science -backed TEVV practices  
+ Secure software development practices  
+ Stakeholder engagement  
+ Synthetic content detection and 
+labeling tools and techniques  
+ Whistleblower protections  
+ Workforce diversity and 
+interdiscip...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 51
+}
+
+---
+
+Document 143:
+Content: 49 early lifecycle TEVV approaches are developed and matured for GAI, organizations may use 
+recommended pre- deployment testing practices to measure performance, capabilities, limits, risks, 
+and impacts. This section describes risk measurement and estimation as part of pre -deployment TEVV, 
+and examines the state of play for pre -deployment testing methodologies.  
+Limitations of Current Pre -deployment Test Approaches  
+Currently available pre -deployment TEVV processes used for GAI applicat...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 52
+}
+
+---
+
+Document 144:
+Content: 50 Participatory Engagement Methods  
+On an ad hoc or more structured basis, organizations can design and use a variety of channels to engage 
+external stakeholders in product development or review. Focus groups with select experts can provide 
+feedback on a range of issues. Small user studies c an provide feedback from representative groups or 
+populations. Anonymous surveys can be used to poll or gauge reactions to specic features. Participatory engagement methods are often less structured tha...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 53
+}
+
+---
+
+Document 145:
+Content: 51 general public participants. For example, expert AI red- teamers could modify or verify the 
+prompts written by general public AI red- teamers. These approaches may also expand coverage 
+of the AI risk attack surface.  
+ Human / AI: Performed by GAI in combinatio n with  specialist or non -specialist human teams. 
+GAI- led red -teaming can be more cost eective than human red- teamers alone. Human or GAI-
+led AI red -teaming may be better suited for eliciting dierent types of harms.   
+A.1.6. ...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 54
+}
+
+---
+
+Document 146:
+Content: 52  Monitoring system capabilities and limitations in deployment through rigorous TEVV processes;  
+ Evaluati ng how humans engage, interact with, or adapt to GAI content (especially in decision 
+making tasks informed by GAI content), and how they react to applied provenance techniques 
+such as overt  disclosures.  
+Organizations can document and delineate GAI system objectives and limitations to identify gaps where provenance data may be most useful. For instance, GAI systems used for content c...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 55
+}
+
+---
+
+Document 147:
+Content: 53 Documenting, reporting, and sharing information about GAI incidents can help mitigate and prevent 
+harmful outcomes by assisting relevant AI Actors  in tracing impacts to their source . Greater awareness 
+and standardization of GAI incident reporting could promote this transparency and improve GAI risk management across the AI ecosystem.  
+Documentation and Involvement of AI Actors  
+AI Actors  should be aware of their roles in reporting AI incidents. To better understand previous incidents 
+...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 56
+}
+
+---
+
+Document 148:
+Content: 54 Appendix B.  References  
+Acemoglu, D. (2024) The Simple Macroeconomics of AI https://www.nber.org/papers/w32487  
+AI Incident Database. https://incidentdatabase.ai/  
+Atherton, D. (2024) Deepfakes and Child Safety: A Survey and Analysis of 2023 Incidents and Responses. 
+AI Incident Database.  https://incidentdatabase.ai/blog/deepfakes -and-child -safety/  
+Badyal, N. et al. (2023) Intentional Biases in LLM Responses. arXiv . https://arxiv.org/pdf/2311.07611  
+Bing Chat: Data Exltration Explo...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 57
+}
+
+---
+
+Document 149:
+Content: 55 De Angelo, D. (2024) Short, Mid and Long- Term Impacts of AI in Cybersecurity. Palo Alto Networks . 
+https://www.paloaltonetworks.com/blog/2024/02/impacts -of-ai-in-cybersecurity/  
+De Freitas, J. et al. (2023) Chatbots and Mental Health: Insights into the Safety of Generative AI.  Harvard 
+Business School . https://www.hbs.edu/ris/Publication%20Files/23- 011_c1bdd417- f717- 47b6 -bccb -
+5438c6e65c1a_f6fd9798- 3c2d- 4932- b222- 056231fe69d7.pdf  
+Dietvorst, B. et al. (2014) Algorithm Aversion...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 58
+}
+
+---
+
+Document 150:
+Content: 56 Karasavva, V. et al. (2021) Personality, Attitudinal, and Demographic Predictors of Non- consensual 
+Dissemination of Intimate Images. NIH. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9554400/  
+Katzman, J., et al. (2023) Taxonomizing and measuring representational harms: a look at image tagging.  
+AAAI. https://dl.acm.org/doi/10.1609/aaai.v37i12.26670  
+Khan, T. et al. (2024) From Code to Consumer: PAIs Value Chain Analysis Illuminates Generative AIs Key 
+Players. AI. https://partnershipona...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 59
+}
+
+---
+
+Document 151:
+Content: 57 National Institute of Standards and Technology (2023) AI Risk Management Framework, Appendix B: 
+How AI Risks Dier from Traditional Software Risks . 
+https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF/Appendices/Appendix_B  
+National Institute of Standards and Technology  (2023) AI RMF Playbook . 
+https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook  
+National Institue of Standards and Technology (2023) Framing Risk 
+https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF/Foundational_Information/...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 60
+}
+
+---
+
+Document 152:
+Content: 58 Satariano, A. et al. (2023) The People Onscreen Are Fake. The Disinformation Is Real.  New York Times . 
+https://www.nytimes.com/2023/02/07/technology/articial -intelligence -training- deepfake.html  
+Schaul, K. et al. (2024) Inside the secret list of websites that make AI like ChatGPT sound smart.  
+Washington Post . https://www.washingtonpost.com/technology/interactive/2023/ai -chatbot -learning/  
+Scheurer , J. et al. (2023) Technical report: Large language models can strategically deceive...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 61
+}
+
+---
+
+Document 153:
+Content: 59 Tirrell, L. (2017) Toxic Speech: Toward an Epidemiology of Discursive Harm. Philosophical Topics, 45(2) , 
+139- 162. https://www.jstor.org/stable/26529441   
+Tufekci, Z. (2015)  Algorithmic Harms Beyond Facebook and Google: Emergent Challenges of 
+Computational Agency . Colorado Technology Law Journal . https://ctlj.colorado.edu/wp-
+content/uploads/2015/08/Tufekci -nal.pdf  
+Turri, V. et al. (2023) Why We Need to Know More: Exploring the State of AI Incident Documentation 
+Practices.  AAAI/AC...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 62
+}
+
+---
+
+Document 154:
+Content: 60 Zhang, Y . et al. (2023) Human favoritism, not AI aversion: Peoples perceptions (and bias) toward 
+generative AI, human experts, and human GAI collaboration in persuasive content generation.  Judgment 
+and Decision Making. https://www.cambridge.org/core/journals/judgment -and-decision -
+making/article/human -favoritism -not- ai-aversion -peoples -perceptions -and-bias-toward -generative -ai-
+human- experts -and-humangai -collaboration -in-persuasive -content -
+generation/419C4BD9CE82673EAF1D8...
+Metadata: {
+  "source": "/Users/joenoss/Downloads/NIST.AI.600-1.pdf",
+  "page": 63
+}
+
+---
+
